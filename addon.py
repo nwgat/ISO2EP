@@ -12,4 +12,4 @@ print file.read()
 # Play file (click S01E01 then play disc1.iso\BDMV\PLAYLIST\00051.mpls)
 #todo
 
-xbmcgui.Dialog().ok.print file.read()
+#xbmcgui.Dialog().ok.print file.read()
