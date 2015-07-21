@@ -12,6 +12,9 @@ xbmc.Player().play(item=link)
 **read nfo file**
 
 import xbmcaddon
+
 import xbmcgui
+
 file = open('disc.nfo', 'r')
+
 print file.read()
